@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524024009758",
+    "project_id": "farm-manager-40aab",
+    "storage_bucket": "farm-manager-40aab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524024009758:android:d4593801d5ea5e22f24a0f",
+        "android_client_info": {
+          "package_name": "com.yourcompany.farm_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPx6oA883tq1T-M4f51J4REbjAZyGtPsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
